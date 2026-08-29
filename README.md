@@ -1,21 +1,27 @@
-## Hi, I'm Ebba 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/322601223" width="200" style="border-radius:50%" />
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/322601223" width="180" align="right" style="border-radius:50%" />
+<h1 align="center">Ebba Vei</h1>
 
-Creative at heart, developer by curiosity. I work with **JavaScript**, **TypeScript** and **Node.js** to build the tools I wish existed.
+<p align="center">
+  </p>
 
-### Stack
-
-`JavaScript` `TypeScript` `Node.js` `Git` `VS Code`
-
-### Right now
-
-- Creative coding and interactive web stuff
-- Learning more Node.js patterns
-- Building things that interest me
+<p align="center">
+  </p>
 
 ---
 
-Fine Arts background from Northern Europe. I like simple, well made things.
+I build things with code in my free time. Got into it because I needed tools that didn't exist, so I started making my own.
+
+Studied Fine Arts and Digital Media in Northern Europe. I like things that are simple and well made.
+
+### Right now
+
+- Creative coding and interactive web experiences
+- Exploring the Node.js ecosystem
+- Building whatever interests me
+
+---
 
 *"The purpose of art is washing the dust of daily life off our souls."* - Picasso
