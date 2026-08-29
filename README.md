@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/322601223" width="200" style="border-radius:50%" />
-</p>
-
 <h1 align="center">Ebba Vei</h1>
-
-<p align="center">
-  </p>
 
 <p align="center">
   </p>
