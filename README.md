@@ -67,3 +67,11 @@ Currently at **Pencil Works, LLC** as Creative Director. Working on projects whe
 *When I'm not coding, I'm probably somewhere with good coffee and a sketchbook.*
 
 </div>
+
+---
+
+<div align="center">
+
+*Pylar AI Creative ML Shared Restrictive License (C) 2023 Miguel Gargallo*
+
+</div>
