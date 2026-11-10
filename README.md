@@ -72,6 +72,6 @@ Currently at **Pencil Works, LLC** as Creative Director. Working on projects whe
 
 <div align="center">
 
-*Pylar AI Creative ML Shared Restrictive License (C) 2023 Miguel Gargallo*
+*Pylar AI Creative ML Shared Restrictive License (C) 2023 Ebba Vei*
 
 </div>
